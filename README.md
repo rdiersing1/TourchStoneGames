@@ -4,7 +4,7 @@ We are currently working on an open source mod for
 pixel dungeon. 
 
 Staff: 
-- Will Buscemi: Story and character design
-- Matt Buscemi: Head programmer
-- Sean Eigle: Head programmer, gameplay design
-- Robert Diersing: Head of AI, also Head programmer
+- Will Buscemi: Lead designer
+- Matt Buscemi: Head programmer, gameplay Designer
+- Sean Eigle: Head programmer, gameplay designer
+- Robert Diersing: Head of AI, Head programmer
